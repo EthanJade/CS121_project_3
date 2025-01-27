@@ -10,7 +10,7 @@ void printLane(int horseNum, int* horses);
 bool isWinner(int horseNum, int* horses);
 
 int main(){
-	printf("Welcome to the Races!\n");
+	std::cout << "Welcome to the Races!" << std::endl;
 
 }
 
